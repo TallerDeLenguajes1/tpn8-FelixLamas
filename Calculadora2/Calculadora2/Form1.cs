@@ -135,7 +135,7 @@ namespace CalculadoraApp
                     break;
             }
             DateTime fecha = DateTime.Now;
-            string fila = Convert.ToString(fecha)+ " " + Convert.ToString(instanciaCalculadora.Numero1) + operacion + Convert.ToString(instanciaCalculadora.Numero2) + " = " + resultado; 
+            string fila = Convert.ToString(fecha)+ " ----> " + Convert.ToString(instanciaCalculadora.Numero1) + operacion + Convert.ToString(instanciaCalculadora.Numero2) + " = " + resultado; 
             lbListaCalculos.Items.Add(fila);
             fila = "";
             tbDisplay.Text = Convert.ToString(resultado);
@@ -150,7 +150,12 @@ namespace CalculadoraApp
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            int indice = lbListaCalculos.SelectedIndex;
+            if (indice!= -1)
+            {
+                lbListaCalculos.Items.RemoveAt(indice);
+            }
+          
         }
     }
 }
