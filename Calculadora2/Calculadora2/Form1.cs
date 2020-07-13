@@ -134,7 +134,8 @@ namespace CalculadoraApp
                     resultado = instanciaCalculadora.division(instanciaCalculadora.Numero1, instanciaCalculadora.Numero2);
                     break;
             }
-            string fila = Convert.ToString(instanciaCalculadora.Numero1) + operacion + Convert.ToString(instanciaCalculadora.Numero2) + " = " + resultado; 
+            DateTime fecha = DateTime.Now;
+            string fila = Convert.ToString(fecha)+ " " + Convert.ToString(instanciaCalculadora.Numero1) + operacion + Convert.ToString(instanciaCalculadora.Numero2) + " = " + resultado; 
             lbListaCalculos.Items.Add(fila);
             fila = "";
             tbDisplay.Text = Convert.ToString(resultado);
