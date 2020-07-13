@@ -154,6 +154,7 @@ namespace CalculadoraApp
             if (indice!= -1)
             {
                 lbListaCalculos.Items.RemoveAt(indice);
+                listaDeCalculos.RemoveAt(indice);
             }
           
         }
