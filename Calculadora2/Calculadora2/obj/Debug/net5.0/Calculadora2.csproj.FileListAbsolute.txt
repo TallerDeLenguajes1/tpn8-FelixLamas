@@ -1,0 +1,15 @@
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\bin\Debug\net5.0\Calculadora2.exe
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\bin\Debug\net5.0\Calculadora2.deps.json
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\bin\Debug\net5.0\Calculadora2.runtimeconfig.json
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\bin\Debug\net5.0\Calculadora2.runtimeconfig.dev.json
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\bin\Debug\net5.0\Calculadora2.dll
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\bin\Debug\net5.0\Calculadora2.pdb
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.csprojAssemblyReference.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\CalculadoraApp.Form1.resources
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.csproj.GenerateResource.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.AssemblyInfoInputs.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.AssemblyInfo.cs
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.dll
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.pdb
+C:\Users\elf_m\Desktop\PU-2\TALLER1\Practica\tp8\Calculadora2\Calculadora2\obj\Debug\net5.0\Calculadora2.genruntimeconfig.cache
