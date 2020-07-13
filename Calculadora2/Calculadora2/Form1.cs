@@ -12,6 +12,7 @@ namespace CalculadoraApp
 {
     public partial class Form1 : Form
     {
+        
         ClassCalculadora instanciaCalculadora;
         char operacion;
         double resultado;
@@ -133,8 +134,9 @@ namespace CalculadoraApp
                     resultado = instanciaCalculadora.division(instanciaCalculadora.Numero1, instanciaCalculadora.Numero2);
                     break;
             }
-            
-
+            string fila = Convert.ToString(instanciaCalculadora.Numero1) + operacion + Convert.ToString(instanciaCalculadora.Numero2) + " = " + resultado; 
+            lbListaCalculos.Items.Add(fila);
+            fila = "";
             tbDisplay.Text = Convert.ToString(resultado);
         }
 
