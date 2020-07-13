@@ -138,6 +138,7 @@ namespace CalculadoraApp
             lbListaCalculos.Items.Add(fila);
             fila = "";
             tbDisplay.Text = Convert.ToString(resultado);
+            tbDisplay.Text = "";
         }
 
         private void btC_Click(object sender, EventArgs e)
