@@ -12,7 +12,7 @@ namespace CalculadoraApp
 {
     public partial class Form1 : Form
     {
-        
+        List<string> listaDeCalculos = new List<string>();
         ClassCalculadora instanciaCalculadora;
         char operacion;
         double resultado;
@@ -140,6 +140,7 @@ namespace CalculadoraApp
             fila = "";
             tbDisplay.Text = Convert.ToString(resultado);
             tbDisplay.Text = "";
+            listaDeCalculos.Add(fila);
         }
 
         private void btC_Click(object sender, EventArgs e)
